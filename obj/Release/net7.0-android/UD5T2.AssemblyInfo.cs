@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UD5T2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b4ac95c58e882704235b72d8576573bd8db9a7eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("UD5T2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UD5T2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

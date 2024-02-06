@@ -1,4 +1,10 @@
-﻿using System.ComponentModel;
+﻿///////////////////////////////////////////
+// Tarea: UD5T2
+// Alumno/a: Alejandro Giráldez Guerrero
+// Curso: 2023/2024
+///////////////////////////////////////////
+
+using System.ComponentModel;
 
 namespace UD5T2.MVVM.Models
 {

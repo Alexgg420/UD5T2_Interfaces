@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bH1MZr7JRYYM/dryFg3DTDcMkvB9IJX2al1e32zs7IzMo9RtSdq7EN0MFmmc5YvB0nglH1+tyGgPV0MV4HsrLA==",
+  "dgSpecHash": "O/Cb2Bi27EGUGN0TzP50WSkL1zJGC/Ciz5LCVJ8vzLW6pVMk5C65RqOo86iwx/fN+S2yYW6d0olgvHl0NmrKZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexg\\Desktop\\Interfaces_Tareas\\UD5T2\\UD5T2.csproj",
   "expectedPackageFiles": [
@@ -125,6 +125,7 @@
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.ios.runtime.iossimulator-x64\\16.4.7129\\microsoft.ios.runtime.iossimulator-x64.16.4.7129.nupkg.sha512",
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.maui.core.runtime.ios\\7.0.101\\microsoft.maui.core.runtime.ios.7.0.101.nupkg.sha512",
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.maui.controls.ref.maccatalyst\\7.0.101\\microsoft.maui.controls.ref.maccatalyst.7.0.101.nupkg.sha512",
+    "C:\\Users\\alexg\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-arm64\\16.4.7129\\microsoft.maccatalyst.runtime.maccatalyst-arm64.16.4.7129.nupkg.sha512",
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64\\16.4.7129\\microsoft.maccatalyst.runtime.maccatalyst-x64.16.4.7129.nupkg.sha512",
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.maui.essentials.ref.maccatalyst\\7.0.101\\microsoft.maui.essentials.ref.maccatalyst.7.0.101.nupkg.sha512",
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.maccatalyst.ref\\16.4.7129\\microsoft.maccatalyst.ref.16.4.7129.nupkg.sha512",
@@ -133,6 +134,7 @@
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.maui.core.ref.maccatalyst\\7.0.101\\microsoft.maui.core.ref.maccatalyst.7.0.101.nupkg.sha512",
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.maui.essentials.runtime.maccatalyst\\7.0.101\\microsoft.maui.essentials.runtime.maccatalyst.7.0.101.nupkg.sha512",
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.maui.essentials.ref.win\\7.0.101\\microsoft.maui.essentials.ref.win.7.0.101.nupkg.sha512",
+    "C:\\Users\\alexg\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.15\\microsoft.netcore.app.crossgen2.win-x64.7.0.15.nupkg.sha512",
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.maui.core.runtime.win\\7.0.101\\microsoft.maui.core.runtime.win.7.0.101.nupkg.sha512",
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
     "C:\\Users\\alexg\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.15\\microsoft.aspnetcore.app.runtime.win-x64.7.0.15.nupkg.sha512",

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UD5T2</name>
+    </assembly>
+    <members>
+        <member name="T:UD5T2.MVVM.Models.BMI">
+            <summary>
+            Clase que representa un modelo para el Índice de Masa Corporal (BMI).
+            Implementa la interfaz INotifyPropertyChanged para notificar cambios en las propiedades.
+            </summary>
+        </member>
+        <member name="P:UD5T2.MVVM.Models.BMI.Altura">
+            <summary>
+            Altura en centímetros
+            </summary>
+        </member>
+        <member name="P:UD5T2.MVVM.Models.BMI.Peso">
+            <summary>
+            Peso en kilogramos
+            </summary>
+        </member>
+        <member name="P:UD5T2.MVVM.Models.BMI.Resultado">
+            <summary>
+            Calcula el resultado del Índice de Masa Corporal (BMI)
+            </summary>
+        </member>
+        <member name="P:UD5T2.MVVM.Models.BMI.ResultadoBMI">
+            <summary>
+            Obtiene la clasificación del Índice de Masa Corporal (BMI).
+            </summary>
+        </member>
+        <member name="E:UD5T2.MVVM.Models.BMI.PropertyChanged">
+            <summary>
+            Evento que se desencadena cuando una propiedad cambia
+            </summary>
+        </member>
+        <member name="M:UD5T2.MVVM.Models.BMI.OnPropertyChanged(System.String)">
+            <summary>
+            Invoca el evento PropertyChanged para notificar cambios en las propiedades
+            </summary>
+            <param name="propertyName">Nombre de la propiedad que ha cambiado</param>
+        </member>
+        <member name="T:UD5T2.MVVM.ViewModels.BMIViewModel">
+            <summary>
+            Clase que representa el ViewModel para la vista BMIView
+            </summary>
+        </member>
+        <member name="P:UD5T2.MVVM.ViewModels.BMIViewModel.BMI">
+            <summary>
+            Modelo BMI asociado al ViewModel
+            </summary>
+        </member>
+        <member name="M:UD5T2.MVVM.ViewModels.BMIViewModel.#ctor">
+            <summary>
+            Constructor de la clase BMIViewModel.
+            Inicializa un objeto BMI con valores predeterminados
+            </summary>
+        </member>
+        <member name="T:UD5T2.MVVM.Views.BMIView">
+            <summary>
+            Clase que representa la vista BMIView
+            </summary>
+        </member>
+        <member name="M:UD5T2.MVVM.Views.BMIView.#ctor">
+            <summary>
+            Constructor de la clase BMIView.
+            Inicializa la vista y establece el contexto de enlace al ViewModel BMIViewMode
+            </summary>
+        </member>
+    </members>
+</doc>

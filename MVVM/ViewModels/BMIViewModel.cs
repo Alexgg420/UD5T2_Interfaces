@@ -1,4 +1,10 @@
-﻿using UD5T2.MVVM.Models;
+﻿///////////////////////////////////////////
+// Tarea: UD5T2
+// Alumno/a: Alejandro Giráldez Guerrero
+// Curso: 2023/2024
+///////////////////////////////////////////
+
+using UD5T2.MVVM.Models;
 
 namespace UD5T2.MVVM.ViewModels
 {
